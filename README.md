@@ -13,7 +13,7 @@ This project contains a Power BI dashboard for analyzing sales performance.
 - Interactive filters
 
 ## 📁 File
-- dopolnitelnye-vizualizacii.pbix
+- Дополнительные визуализации.pbix
 
 ## 🔗 How to use
 Download the PBIX file and open it in Power BI Desktop.
