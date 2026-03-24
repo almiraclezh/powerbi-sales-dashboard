@@ -1,3 +1,6 @@
+## 📌 Author
+Almira | Aspiring Data Analyst
+
 # Power BI Sales Dashboard
 
 ## 📊 Overview
